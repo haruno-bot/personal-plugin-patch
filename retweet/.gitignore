@@ -1,0 +1,15 @@
+# os
+.DS_Store
+
+# editor
+.vscode
+.idea
+
+# project
+logs
+build
+debug
+config.toml
+
+# static files
+server/*
